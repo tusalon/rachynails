@@ -1,20 +1,20 @@
 {
-  "name": "Salon bella",
-  "short_name": "Bella",
-  "description": "Salón de belleza - Tu espacio de cuidado personal",
-  "start_url": "/bellasalon/",
-  "scope": "/bellasalon/",
+  "name": "Rachy-Nail's",
+  "short_name": "Rachy",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/rachynails/",
+  "scope": "/rachynails/",
   "display": "standalone",
   "background_color": "#ec4899",
   "theme_color": "#ec4899",
   "icons": [
     {
-      "src": "/bellasalon/icons/icon-192x192.png",
+      "src": "/rachynails/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/bellasalon/icons/icon-512x512.png",
+      "src": "/rachynails/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
