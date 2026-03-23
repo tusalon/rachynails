@@ -8,7 +8,7 @@ function BookingForm({ service, profesional, date, time, onSubmit, onCancel, cli
     const [error, setError] = React.useState(null);
 
     // ============================================
-    // FUNCIÓN PARA PARTIR LÍNEAS LARGAS (RFC 5545)
+    // FUNCIÓN PARA 
     // ============================================
     function partirLinea(texto, limite = 70) {
         if (texto.length <= limite) return texto;
